@@ -533,7 +533,7 @@ public class KerberosTicket implements Destroyable, Refreshable,
         Throwable e = null;
         sun.security.krb5.Credentials krb5Creds = null;
 
-        try {
+/*        try {
             krb5Creds = new sun.security.krb5.Credentials(asn1Encoding,
                                                     client.toString(),
                                                     server.toString(),
@@ -550,7 +550,7 @@ public class KerberosTicket implements Destroyable, Refreshable,
             e = krbException;
         } catch (java.io.IOException ioException) {
             e = ioException;
-        }
+        }*/
 
         if (e != null) {
             RefreshFailedException rfException
