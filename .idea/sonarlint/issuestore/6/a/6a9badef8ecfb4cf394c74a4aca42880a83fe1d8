@@ -1,0 +1,50 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(éª‚€
+a
+java:S1192¨"JDefine a constant instead of duplicating this literal "Not owner" 3 times.(‚š€
+[	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(ÙœªT
+o	java:S135ä"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+t	java:S135ä"YReduce the total number of break and continue statements in this loop to use at most one.(ã˜×Ğúÿÿÿÿ
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ã˜×Ğúÿÿÿÿ
+t	java:S135¹"YReduce the total number of break and continue statements in this loop to use at most one.(ã˜×Ğúÿÿÿÿ
+s
+java:S3077Á"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(‘ø‹¯úÿÿÿÿ
+m
+java:S3077Ç"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(“£™L
+p	java:S115ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñê€Ô
+u	java:S115¡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰ãŸÅøÿÿÿÿ
+p	java:S115¢"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§Úš
+o	java:S115£"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø¢
+p	java:S115¤"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²í¨
+u	java:S115¥"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞÔ—¸üÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(ÈñÇûÿÿÿÿ
+n
+java:S3077ô"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ïâ¾
+n
+java:S3077ƒ"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(–¤Á
+n
+java:S3077‰"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(«ùä´
+a
+java:S1764‘"KCorrect one of the identical sub-expressions on both sides of operator "||"(’ŞŒ4
+6
+java:S1659»	"Declare "s" on a separate line.(ÍÈ”ğ
+a
+java:S1764¿	"KCorrect one of the identical sub-expressions on both sides of operator "||"(Œ¢Æp
+6
+java:S1659ó	"Declare "s" on a separate line.(ÍÈ”ğ
+u
+java:S2293Ò
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÂã¼ıÿÿÿÿ
+u
+java:S2293ä
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÂã¼ıÿÿÿÿ
+u
+java:S2293ø
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÂã¼ıÿÿÿÿ
+˜
+java:S1186õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªµŠ
+`
+java:S3358Ÿ"DExtract this nested ternary operation into an independent statement.(ÀÕôıÿÿÿÿ
+u
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÂã¼ıÿÿÿÿ

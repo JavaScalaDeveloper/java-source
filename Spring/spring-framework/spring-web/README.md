@@ -1,0 +1,2 @@
+# Web应用的IOC容器上下文
+<p>spring-web包提供了一个ApplicationContext的继承接口：WebApplicationContext的类体系设计与ApplicationContext的基本一致，不同之处为：在ApplicationContext的基础上，添加web应用运行相关的一些性质。主要与web容器、servlet相关</p>

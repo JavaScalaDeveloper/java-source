@@ -1,0 +1,53 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ò„¸şÿÿÿÿ
+{
+java:S1192Ğ"_Define a constant instead of duplicating this literal "This ticket is no longer valid" 3 times.(ÌŒ¸»şÿÿÿÿ
+g
+java:S1192ï"PDefine a constant instead of duplicating this literal " cannot be null" 5 times.(‚²…ù
+]	java:S107Ò"BConstructor has 11 parameters, which is greater than 7 authorized.(ñ‘Ë¦ÿÿÿÿÿ
+S	java:S107â"=Method has 11 parameters, which is greater than 7 authorized.(ı•®³
+S	java:S107õ"=Method has 10 parameters, which is greater than 7 authorized.(ı•®³
+M
+java:S1153"1Directly append the argument of String.valueOf().(šÌµ™úÿÿÿÿ
+M
+java:S1153€"1Directly append the argument of String.valueOf().(ŠÜëªùÿÿÿÿ
+M
+java:S1153ƒ"1Directly append the argument of String.valueOf().(Éå÷øÿÿÿÿ
+c
+java:S2259¾"GA "NullPointerException" could be thrown; "krb5Creds" is nullable here.(¢œ¾¢ùÿÿÿÿ
+g
+java:S2259’"KA "NullPointerException" could be thrown; "getRenewTill()" can return null.(ŸÖİ©úÿÿÿÿ
+[
+java:S2583«"DChange this condition so that it does not always evaluate to "false"(²Ï’
+W
+java:S1128"<Remove this unused import 'sun.security.krb5.Asn1Exception'.(ßØåØüÿÿÿÿ
+v
+java:S1149í"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ıŞ²ë
+i
+java:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ı•®³
+u
+java:S3012˜"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(™Ò ûÿÿÿÿ
+C
+java:S1125é"'Remove the unnecessary boolean literal.(áİ­ÿÿÿÿÿ
+>
+java:S1125õ"'Remove the unnecessary boolean literal.(ÈíËÏ
+>
+java:S1125ş"'Remove the unnecessary boolean literal.(Ú„Ø•
+>
+java:S1125‡"'Remove the unnecessary boolean literal.(ßæ¿¥
+C
+java:S1125‘"'Remove the unnecessary boolean literal.(˜ôíøÿÿÿÿ
+C
+java:S1125œ"'Remove the unnecessary boolean literal.(Ö”³åûÿÿÿÿ
+C
+java:S1125§"'Remove the unnecessary boolean literal.(ùÄ®İüÿÿÿÿ
+=
+java:S1125ó"'Remove the unnecessary boolean literal.(²®É
+R	java:S125˜"<This block of commented-out lines of code should be removed.(½‘Ñ³
+Q
+java:S1161Ò":Add the "@Override" annotation above this method signature(µÿÖ”
+Q
+java:S1161å":Add the "@Override" annotation above this method signature(¸ˆà†
+i
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(°Ñµ˜
