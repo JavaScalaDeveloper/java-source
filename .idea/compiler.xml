@@ -10,10 +10,12 @@
         <module name="Netty" />
         <module name="SpringMVC" />
         <module name="MyBatis" />
+        <module name="Docs" />
         <module name="Spring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="Docs" target="1.5" />
       <module name="JDK" target="8" />
       <module name="MyBatis" target="1.5" />
       <module name="Netty" target="1.5" />
